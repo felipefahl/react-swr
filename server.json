@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Felipe",
+      "id": 1
+    },
+    {
+      "name": "Jasmin",
+      "id": 2
+    },
+    {
+      "name": "Bartolomeu",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Mary"
+    },
+    {
+      "id": 5,
+      "name": "Joseph"
+    },
+    {
+      "name": "Carlos",
+      "id": 6
+    },
+    {
+      "name": "Thommas",
+      "id": 7
+    },
+    {
+      "name": "Karen",
+      "id": 8
+    },
+    {
+      "name": "Aline",
+      "id": 9
+    }
+  ]
+}
